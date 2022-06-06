@@ -9,7 +9,7 @@
 # Description
 
 
-This is an iOS app created as a Take Home Project for Jobsity. This app shows listing TV series, using the API provided by the TVMaze website. The solution is using SwiftUI 3 following MVVM and container/presentation patterns. Also, using latest structured concurrency. Core Data was picked as local persistence.
+This is an iOS app created as a Take Home Project for Jobsity. This app shows listing TV series, using the API provided by the TVMaze website. The solution is using SwiftUI 3 following MVVM and container/presentation patterns. Also, using the latest structured concurrency. Core Data was picked as local persistence.
 
 <p>&nbsp;</p>
 
@@ -17,6 +17,8 @@ General Considerations:
 - While searching i am using return tap to perform search.
 - Demo tested on virtual simulator.
 - Distribuition package exported inside dist folder.
+- I will appreciate some feedback. Please contact me:
+- obed1355@gmail.com
 
 <p>&nbsp;</p>
 
