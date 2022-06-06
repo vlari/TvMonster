@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TvMonster.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>98FBD8CC9C0926537084774CC1CE6843D60DD4DE</string>
+				<key>dateExpires</key>
+				<string>24/12/22</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PZJ2LKY34X.com.ogdev.TvMonster</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PZJ2LKY34X</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>PZJ2LKY34X.com.ogdev.TvMonster</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TvMonster.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3dc6daeb-b5e5-481e-955f-d271bce4fd97</string>
+				<key>dateExpires</key>
+				<string>24/12/22</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.ogdev.TvMonster</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>PZJ2LKY34X</string>
+				<key>name</key>
+				<string>Obed Garcia</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
